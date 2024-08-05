@@ -5,7 +5,12 @@ Welcome to the Order Dashboard! This application provides a simple and intuitive
 
 ## Visuals
 
+View
 <img width="1240" alt="image" src="https://github.com/user-attachments/assets/f05bbe71-6e59-4c62-a8b7-5865bedbf757">
+
+Dark Mode & Little Responsiveness
+<img width="820" alt="image" src="https://github.com/user-attachments/assets/eab6fb87-f316-4727-96ad-1f0eba97ce88">
+
 
 ## Setup Instructions
 1. Clone the repository:
